@@ -1,2 +1,2 @@
 # CalendarStartDays
-Gives years with same calendars
+Finding years that start on same day of the week. 
